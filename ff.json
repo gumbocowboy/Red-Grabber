@@ -1,1 +1,492 @@
-{"guid":"root________","title":"","index":0,"dateAdded":1635620114357000,"lastModified":1712260682452000,"id":1,"typeCode":2,"type":"text/x-moz-place-container","root":"placesRoot","children":[{"guid":"menu________","title":"menu","index":0,"dateAdded":1635620114357000,"lastModified":1681142037775000,"id":2,"typeCode":2,"type":"text/x-moz-place-container","root":"bookmarksMenuFolder","children":[{"guid":"zCcxY8E3-oMG","title":"Mozilla Firefox","index":0,"dateAdded":1635620114537000,"lastModified":1635620114537000,"id":7,"typeCode":2,"type":"text/x-moz-place-container","children":[{"guid":"eBs9cguR4NoW","title":"Get Help","index":0,"dateAdded":1635620114537000,"lastModified":1635620114537000,"id":8,"typeCode":1,"iconUri":"fake-favicon-uri:https://support.mozilla.org/en-US/products/firefox","type":"text/x-moz-place","uri":"https://support.mozilla.org/en-US/products/firefox"},{"guid":"JWNi0MKOeLAm","title":"Customize Firefox","index":1,"dateAdded":1635620114537000,"lastModified":1635620114537000,"id":9,"typeCode":1,"iconUri":"fake-favicon-uri:https://support.mozilla.org/en-US/kb/customize-firefox-controls-buttons-and-toolbars?utm_source=firefox-browser&utm_medium=default-bookmarks&utm_campaign=customize","type":"text/x-moz-place","uri":"https://support.mozilla.org/en-US/kb/customize-firefox-controls-buttons-and-toolbars?utm_source=firefox-browser&utm_medium=default-bookmarks&utm_campaign=customize"},{"guid":"u06FL4Y6mwki","title":"Get Involved","index":2,"dateAdded":1635620114537000,"lastModified":1635620114537000,"id":10,"typeCode":1,"iconUri":"fake-favicon-uri:https://www.mozilla.org/en-US/contribute/","type":"text/x-moz-place","uri":"https://www.mozilla.org/en-US/contribute/"},{"guid":"32rCeQxYAAby","title":"About Us","index":3,"dateAdded":1635620114537000,"lastModified":1635620114537000,"id":11,"typeCode":1,"iconUri":"fake-favicon-uri:https://www.mozilla.org/en-US/about/","type":"text/x-moz-place","uri":"https://www.mozilla.org/en-US/about/"}]},{"guid":"JvFhd_xinYrn","title":"Video Game Background Music and Chiptunes for Retro and Indie Games","index":1,"dateAdded":1663950899394000,"lastModified":1663950904384000,"id":29,"typeCode":1,"iconUri":"https://www.playonloop.com/wp-content/uploads/2019/06/cropped-favicon-retina-192x192.png","type":"text/x-moz-place","uri":"https://www.playonloop.com/royalty-free-music/video-game-chiptune-music/"},{"guid":"OnC_SCBGJvlg","title":"Maygi’s POTD 1-200 Handbook (Solo/Party)","index":2,"dateAdded":1670790772928000,"lastModified":1670790772928000,"id":30,"typeCode":1,"iconUri":"https://ssl.gstatic.com/docs/documents/images/kix-favicon7.ico","type":"text/x-moz-place","uri":"https://docs.google.com/document/d/e/2PACX-1vQpzFuhmSwTXuZSmtnKLNgQ0nRhumCFaB8NvCXFXSjrBHPRT5lXY8jMR4RaCK1aNfcl_G5ph5DNNwfl/pub"},{"guid":"PeuiUHmPch5a","title":"old.reddit.com/r/facepalm/comments/114ef2i/north_carolina_police_officer_pulls_a_gun_on_a_14/","index":3,"dateAdded":1676653595469000,"lastModified":1676653595469000,"id":32,"typeCode":1,"type":"text/x-moz-place","uri":"about:blank"},{"guid":"ke2okmgRQZ4C","title":"Problem loading page","index":4,"dateAdded":1681142037775000,"lastModified":1681142037775000,"id":39,"typeCode":1,"iconUri":"https://10.0.0.3:8006/pve2/images/logo-128.png","type":"text/x-moz-place","uri":"https://10.0.0.3:8006/#v1:0:18:4:::::::"}]},{"guid":"toolbar_____","title":"toolbar","index":1,"dateAdded":1635620114357000,"lastModified":1712260682452000,"id":3,"typeCode":2,"type":"text/x-moz-place-container","root":"toolbarFolder","children":[{"guid":"YywtyEl7g1uI","title":"Gmail","index":0,"dateAdded":1689081294172000,"lastModified":1694374577756000,"id":42,"typeCode":2,"type":"text/x-moz-place-container","children":[{"guid":"k3qgMvJ2Unvy","title":"Hoffman Gmail","index":0,"dateAdded":1689081322960000,"lastModified":1689081337941000,"id":43,"typeCode":1,"iconUri":"https://ssl.gstatic.com/ui/v1/icons/mail/rfr/gmail.ico","type":"text/x-moz-place","uri":"https://mail.google.com/mail/u/0/#inbox"},{"guid":"GpeuQ-3q95j9","title":"Meltymiko Gmail","index":1,"dateAdded":1689081332671000,"lastModified":1689081339610000,"id":44,"typeCode":1,"iconUri":"https://ssl.gstatic.com/ui/v1/icons/mail/rfr/gmail.ico","type":"text/x-moz-place","uri":"https://mail.google.com/mail/u/1/#inbox"}]},{"guid":"1qi-_O2YKSQ6","title":"Local Addresses","index":1,"dateAdded":1680919159000000,"lastModified":1703285230959000,"id":35,"typeCode":2,"type":"text/x-moz-place-container","children":[{"guid":"Phcn59S71MDf","title":"TrueNAS - 10.0.0.71","index":0,"dateAdded":1681127502334000,"lastModified":1690898153851000,"id":38,"typeCode":1,"iconUri":"http://10.0.0.71/ui/assets/images/android-icon-192x192.png","type":"text/x-moz-place","uri":"http://10.0.0.71/ui/dashboard"},{"guid":"Ju2EYv3hE73R","title":"Home Assistant","index":1,"dateAdded":1689081387653000,"lastModified":1689081387653000,"id":45,"typeCode":1,"iconUri":"http://homeassistant.local:8123/static/icons/favicon-apple-180x180.png","type":"text/x-moz-place","uri":"http://homeassistant.local:8123/dashboard-test/default_view"}]},{"guid":"5JzW_RpgHDpV","title":"FFXIV","index":2,"dateAdded":1655422295637000,"lastModified":1688425254577000,"id":21,"typeCode":2,"type":"text/x-moz-place-container","children":[{"guid":"plwsBqHXYaqs","title":"cactpot solver - Google Search","index":0,"dateAdded":1655164190557000,"lastModified":1655422303290000,"id":20,"typeCode":1,"type":"text/x-moz-place","uri":"https://www.google.com/search?client=firefox-b-1-d&q=cactpot+solver"},{"guid":"cv0DqwC8SFXW","title":"(1) BLU Solo Leveling or How I Learned to Stop Waiting on Friends and BLU Myself : ffxiv","index":1,"dateAdded":1654203976378000,"lastModified":1655422305365000,"id":18,"typeCode":1,"iconUri":"https://www.redditstatic.com/shreddit/assets/favicon/192x192.png","type":"text/x-moz-place","uri":"https://www.reddit.com/r/ffxiv/comments/m6utdr/blu_solo_leveling_or_how_i_learned_to_stop/"},{"guid":"ZVFvPrv0RRZv","title":"Crafting Melding Guide","index":2,"dateAdded":1649210286006000,"lastModified":1655422307835000,"id":14,"typeCode":1,"type":"text/x-moz-place","uri":"https://guides.ffxivteamcraft.com/guide/crafting-melding-guide"},{"guid":"WZJK2JN9MWi0","title":"Ocean Fishing","index":3,"dateAdded":1652991700465000,"lastModified":1655422310758000,"id":15,"typeCode":1,"type":"text/x-moz-place","uri":"https://ffxiv.pf-n.co/ocean-fishing"},{"guid":"ievPoH9wx6rk","title":"E","index":4,"dateAdded":1654203973589000,"lastModified":1655422314699000,"id":17,"typeCode":1,"type":"text/x-moz-place","uri":"https://ffxiv.consolegameswiki.com/wiki/Blue_Mage_Spells_Learning_Guide"},{"guid":"2XE_IeTmePhh","title":"Gathering Collectables in FFXIV - Final Fantasy XIV - Icy Veins","index":5,"dateAdded":1657330083831000,"lastModified":1657330083831000,"id":22,"typeCode":1,"iconUri":"https://static.icy-veins.com/images/common/favicon-high-resolution.png","type":"text/x-moz-place","uri":"https://www.icy-veins.com/ffxiv/gathering-collectables-in-ffxiv"},{"guid":"HFDO-nkKjpV3","title":"Scrip Timers","index":6,"dateAdded":1657408809530000,"lastModified":1657408818304000,"id":23,"typeCode":1,"iconUri":"https://www.ffxiv-gathering.com/images/favicon.ico","type":"text/x-moz-place","uri":"https://www.ffxiv-gathering.com/60.php"},{"guid":"JfryaEYxJozS","title":"Fleeting Brand - Gamer Escape's Final Fantasy XIV (FFXIV, FF14) wiki","index":7,"dateAdded":1657418128477000,"lastModified":1657418136863000,"id":24,"typeCode":1,"type":"text/x-moz-place","uri":"https://ffxiv.gamerescape.com/wiki/Fleeting_Brand"},{"guid":"GcGU_dT5qhWO","title":"Auric’s Basic Guide to the Masked Carnivale – Astral Flames of Gilgamesh","index":8,"dateAdded":1658718898493000,"lastModified":1658718911206000,"id":25,"typeCode":1,"iconUri":"https://s0.wp.com/i/webclip.png","type":"text/x-moz-place","uri":"https://astralflamesblog.wordpress.com/aurics-guide-to-the-masked-carnivale/"},{"guid":"aiMQC6NxqiuL","title":"FFX|V Fish Tracker App","index":9,"dateAdded":1672448995746000,"lastModified":1672449002539000,"id":31,"typeCode":1,"iconUri":"https://ff14fish.carbuncleplushy.com/favicon.png","type":"text/x-moz-place","uri":"https://ff14fish.carbuncleplushy.com/"}]},{"guid":"6WpujUXRAP5k","title":"Weather","index":3,"dateAdded":1685982221380000,"lastModified":1698006060887000,"id":41,"typeCode":1,"type":"text/x-moz-place","uri":"https://www.wunderground.com/weather/us/pa/lancaster"},{"guid":"Vv30Abkx5dbr","title":"Dashboard ‹ kd3ts — WordPress","index":4,"dateAdded":1689081458742000,"lastModified":1703004736347000,"id":46,"typeCode":1,"type":"text/x-moz-place","uri":"http://kd3ts.com/wp-admin/"},{"guid":"InKmbR2Af9UE","title":"Calendar","index":5,"dateAdded":1693266395700000,"lastModified":1693266395700000,"id":47,"typeCode":1,"iconUri":"https://calendar.google.com/googlecalendar/images/favicons_2020q4/calendar_31_256.ico","type":"text/x-moz-place","uri":"https://calendar.google.com/calendar/u/0/r"},{"guid":"s_VStLT1Tntt","title":"HA","index":6,"dateAdded":1700535899729000,"lastModified":1700535903901000,"id":48,"typeCode":2,"type":"text/x-moz-place-container","children":[{"guid":"OZS90OGqtHDD","title":"How to reduce the radius of the default Home zone - Configuration - Home Assistant Community","index":0,"dateAdded":1700535903901000,"lastModified":1700535903901000,"id":49,"typeCode":1,"iconUri":"https://community-assets.home-assistant.io/optimized/4X/0/d/8/0d8fd51f25f77c512074ace8b2a1c25c49900c97_2_180x180.png","type":"text/x-moz-place","uri":"https://community.home-assistant.io/t/how-to-reduce-the-radius-of-the-default-home-zone/338835/26"}]},{"guid":"do0TKpiyTOWk","title":"Add to Babylist","index":7,"dateAdded":1701710082363000,"lastModified":1701710082363000,"id":50,"typeCode":1,"type":"text/x-moz-place","uri":"javascript:(function()%7Bvar%20BOOKMARK_REDIRECT_STATUS%20%3D%20'on'%20!%3D%20'off'%3Bvar%20BL_URL%20%3D%20'https://www.babylist.com%2Fadd_reg_item'%3Bvar%20loc%20%3D%20window.location%3Bvar%20doc%20%3D%20window.document%3Bvar%20source%20%3D%20'button'%3Bvar%20scriptElem%20%3D%20doc.createElement('script')%3Bfunction%20redirect()%20%7Bloc.href%20%3D%20BL_URL%20%2B%20'%3Fu%3D'%20%2B%20encodeURIComponent(loc)%20%2B%20'%26t%3D'%20%2B%20encodeURIComponent(doc.title)%3B%7Dfunction%20init()%20%7Bif%20(doc%5B'readyState'%5D%20%26%26%20(doc%5B'readyState'%5D%20!%3D%20'complete'%20%26%26%20doc%5B'readyState'%5D%20!%3D%20'interactive'))%20%7Breturn%20setTimeout(init%2C%20200)%3B%7DscriptElem%5B'setAttribute'%5D('charset'%2C%20'UTF-8')%3BscriptElem%5B'setAttribute'%5D('src'%2C%20BL_URL%20%2B%20'.js%3Floc%3D'%20%2B%20encodeURIComponent(loc)%20%2B%20'%26source%3D'%20%2B%20encodeURIComponent(source)%20%2B%20'%26format%3Djs')%3Bif%20(BOOKMARK_REDIRECT_STATUS)%20%7BscriptElem.addEventListener('error'%2C%20redirect)%3B%7Ddoc.body.appendChild(scriptElem)%3B%7Dif%20(typeof%20scriptElem%20!%3D%20'object')%20%7Bredirect()%3B%7D%20else%20%7Binit()%3B%7D%7D)()"},{"guid":"BS9XFKSvV_FX","title":"Worldbuilding","index":8,"dateAdded":1703705360756000,"lastModified":1703705360756000,"id":51,"typeCode":2,"type":"text/x-moz-place-container"},{"guid":"6qgwZlJT5MVa","title":"Adding Stats to Characters ... easily - Lemma Soft Forums","index":9,"dateAdded":1706024914427000,"lastModified":1706024914427000,"id":52,"typeCode":1,"type":"text/x-moz-place","uri":"https://lemmasoft.renai.us/forums/viewtopic.php?t=47911"},{"guid":"0h3mwkRJQwy7","title":"To RED","index":10,"dateAdded":1708978004518000,"lastModified":1712260682452000,"id":53,"typeCode":2,"type":"text/x-moz-place-container","children":[{"guid":"yBV7Zllr7nkP","title":"First Time trying Anal.... Again😵‍💫😫 - Pornhub.com","index":0,"dateAdded":1712260682452000,"lastModified":1712260682452000,"id":94,"typeCode":1,"iconUri":"https://ei.phncdn.com/www-static/favicon.ico?cache=2024040301","type":"text/x-moz-place","uri":"https://www.pornhub.com/view_video.php?viewkey=65b6e49603350"}]},{"guid":"7jpNJJ_uUKMw","title":"A Fisher's Guide to Eorzea - Google Docs","index":11,"dateAdded":1712170000178000,"lastModified":1712170000178000,"id":93,"typeCode":1,"type":"text/x-moz-place","uri":"https://docs.google.com/document/d/1B7wjAtw5uCiARS9tXsozYAX8l6JZOzl2YtJSjejqchk/edit"}]},{"guid":"unfiled_____","title":"unfiled","index":3,"dateAdded":1635620114357000,"lastModified":1635620114529000,"id":5,"typeCode":2,"type":"text/x-moz-place-container","root":"unfiledBookmarksFolder"},{"guid":"mobile______","title":"mobile","index":4,"dateAdded":1635620114357000,"lastModified":1635620114529000,"id":6,"typeCode":2,"type":"text/x-moz-place-container","root":"mobileFolder"}]}
+{
+    "guid": "root________",
+    "title": "",
+    "index": 0,
+    "dateAdded": 1635620114357000,
+    "lastModified": 1712260682452000,
+    "id": 1,
+    "typeCode": 2,
+    "type": "text/x-moz-place-container",
+    "root": "placesRoot",
+    "children": [
+        {
+            "guid": "menu________",
+            "title": "menu",
+            "index": 0,
+            "dateAdded": 1635620114357000,
+            "lastModified": 1681142037775000,
+            "id": 2,
+            "typeCode": 2,
+            "type": "text/x-moz-place-container",
+            "root": "bookmarksMenuFolder",
+            "children": [
+                {
+                    "guid": "zCcxY8E3-oMG",
+                    "title": "Mozilla Firefox",
+                    "index": 0,
+                    "dateAdded": 1635620114537000,
+                    "lastModified": 1635620114537000,
+                    "id": 7,
+                    "typeCode": 2,
+                    "type": "text/x-moz-place-container",
+                    "children": [
+                        {
+                            "guid": "eBs9cguR4NoW",
+                            "title": "Get Help",
+                            "index": 0,
+                            "dateAdded": 1635620114537000,
+                            "lastModified": 1635620114537000,
+                            "id": 8,
+                            "typeCode": 1,
+                            "iconUri": "fake-favicon-uri:https://support.mozilla.org/en-US/products/firefox",
+                            "type": "text/x-moz-place",
+                            "uri": "https://support.mozilla.org/en-US/products/firefox"
+                        },
+                        {
+                            "guid": "JWNi0MKOeLAm",
+                            "title": "Customize Firefox",
+                            "index": 1,
+                            "dateAdded": 1635620114537000,
+                            "lastModified": 1635620114537000,
+                            "id": 9,
+                            "typeCode": 1,
+                            "iconUri": "fake-favicon-uri:https://support.mozilla.org/en-US/kb/customize-firefox-controls-buttons-and-toolbars?utm_source=firefox-browser&utm_medium=default-bookmarks&utm_campaign=customize",
+                            "type": "text/x-moz-place",
+                            "uri": "https://support.mozilla.org/en-US/kb/customize-firefox-controls-buttons-and-toolbars?utm_source=firefox-browser&utm_medium=default-bookmarks&utm_campaign=customize"
+                        },
+                        {
+                            "guid": "u06FL4Y6mwki",
+                            "title": "Get Involved",
+                            "index": 2,
+                            "dateAdded": 1635620114537000,
+                            "lastModified": 1635620114537000,
+                            "id": 10,
+                            "typeCode": 1,
+                            "iconUri": "fake-favicon-uri:https://www.mozilla.org/en-US/contribute/",
+                            "type": "text/x-moz-place",
+                            "uri": "https://www.mozilla.org/en-US/contribute/"
+                        },
+                        {
+                            "guid": "32rCeQxYAAby",
+                            "title": "About Us",
+                            "index": 3,
+                            "dateAdded": 1635620114537000,
+                            "lastModified": 1635620114537000,
+                            "id": 11,
+                            "typeCode": 1,
+                            "iconUri": "fake-favicon-uri:https://www.mozilla.org/en-US/about/",
+                            "type": "text/x-moz-place",
+                            "uri": "https://www.mozilla.org/en-US/about/"
+                        }
+                    ]
+                },
+                {
+                    "guid": "JvFhd_xinYrn",
+                    "title": "Video Game Background Music and Chiptunes for Retro and Indie Games",
+                    "index": 1,
+                    "dateAdded": 1663950899394000,
+                    "lastModified": 1663950904384000,
+                    "id": 29,
+                    "typeCode": 1,
+                    "iconUri": "https://www.playonloop.com/wp-content/uploads/2019/06/cropped-favicon-retina-192x192.png",
+                    "type": "text/x-moz-place",
+                    "uri": "https://www.playonloop.com/royalty-free-music/video-game-chiptune-music/"
+                },
+                {
+                    "guid": "OnC_SCBGJvlg",
+                    "title": "Maygi’s POTD 1-200 Handbook (Solo/Party)",
+                    "index": 2,
+                    "dateAdded": 1670790772928000,
+                    "lastModified": 1670790772928000,
+                    "id": 30,
+                    "typeCode": 1,
+                    "iconUri": "https://ssl.gstatic.com/docs/documents/images/kix-favicon7.ico",
+                    "type": "text/x-moz-place",
+                    "uri": "https://docs.google.com/document/d/e/2PACX-1vQpzFuhmSwTXuZSmtnKLNgQ0nRhumCFaB8NvCXFXSjrBHPRT5lXY8jMR4RaCK1aNfcl_G5ph5DNNwfl/pub"
+                },
+                {
+                    "guid": "PeuiUHmPch5a",
+                    "title": "old.reddit.com/r/facepalm/comments/114ef2i/north_carolina_police_officer_pulls_a_gun_on_a_14/",
+                    "index": 3,
+                    "dateAdded": 1676653595469000,
+                    "lastModified": 1676653595469000,
+                    "id": 32,
+                    "typeCode": 1,
+                    "type": "text/x-moz-place",
+                    "uri": "about:blank"
+                },
+                {
+                    "guid": "ke2okmgRQZ4C",
+                    "title": "Problem loading page",
+                    "index": 4,
+                    "dateAdded": 1681142037775000,
+                    "lastModified": 1681142037775000,
+                    "id": 39,
+                    "typeCode": 1,
+                    "iconUri": "https://10.0.0.3:8006/pve2/images/logo-128.png",
+                    "type": "text/x-moz-place",
+                    "uri": "https://10.0.0.3:8006/#v1:0:18:4:::::::"
+                }
+            ]
+        },
+        {
+            "guid": "toolbar_____",
+            "title": "toolbar",
+            "index": 1,
+            "dateAdded": 1635620114357000,
+            "lastModified": 1712260682452000,
+            "id": 3,
+            "typeCode": 2,
+            "type": "text/x-moz-place-container",
+            "root": "toolbarFolder",
+            "children": [
+                {
+                    "guid": "YywtyEl7g1uI",
+                    "title": "Gmail",
+                    "index": 0,
+                    "dateAdded": 1689081294172000,
+                    "lastModified": 1694374577756000,
+                    "id": 42,
+                    "typeCode": 2,
+                    "type": "text/x-moz-place-container",
+                    "children": [
+                        {
+                            "guid": "k3qgMvJ2Unvy",
+                            "title": "Hoffman Gmail",
+                            "index": 0,
+                            "dateAdded": 1689081322960000,
+                            "lastModified": 1689081337941000,
+                            "id": 43,
+                            "typeCode": 1,
+                            "iconUri": "https://ssl.gstatic.com/ui/v1/icons/mail/rfr/gmail.ico",
+                            "type": "text/x-moz-place",
+                            "uri": "https://mail.google.com/mail/u/0/#inbox"
+                        },
+                        {
+                            "guid": "GpeuQ-3q95j9",
+                            "title": "Meltymiko Gmail",
+                            "index": 1,
+                            "dateAdded": 1689081332671000,
+                            "lastModified": 1689081339610000,
+                            "id": 44,
+                            "typeCode": 1,
+                            "iconUri": "https://ssl.gstatic.com/ui/v1/icons/mail/rfr/gmail.ico",
+                            "type": "text/x-moz-place",
+                            "uri": "https://mail.google.com/mail/u/1/#inbox"
+                        }
+                    ]
+                },
+                {
+                    "guid": "1qi-_O2YKSQ6",
+                    "title": "Local Addresses",
+                    "index": 1,
+                    "dateAdded": 1680919159000000,
+                    "lastModified": 1703285230959000,
+                    "id": 35,
+                    "typeCode": 2,
+                    "type": "text/x-moz-place-container",
+                    "children": [
+                        {
+                            "guid": "Phcn59S71MDf",
+                            "title": "TrueNAS - 10.0.0.71",
+                            "index": 0,
+                            "dateAdded": 1681127502334000,
+                            "lastModified": 1690898153851000,
+                            "id": 38,
+                            "typeCode": 1,
+                            "iconUri": "http://10.0.0.71/ui/assets/images/android-icon-192x192.png",
+                            "type": "text/x-moz-place",
+                            "uri": "http://10.0.0.71/ui/dashboard"
+                        },
+                        {
+                            "guid": "Ju2EYv3hE73R",
+                            "title": "Home Assistant",
+                            "index": 1,
+                            "dateAdded": 1689081387653000,
+                            "lastModified": 1689081387653000,
+                            "id": 45,
+                            "typeCode": 1,
+                            "iconUri": "http://homeassistant.local:8123/static/icons/favicon-apple-180x180.png",
+                            "type": "text/x-moz-place",
+                            "uri": "http://homeassistant.local:8123/dashboard-test/default_view"
+                        }
+                    ]
+                },
+                {
+                    "guid": "5JzW_RpgHDpV",
+                    "title": "FFXIV",
+                    "index": 2,
+                    "dateAdded": 1655422295637000,
+                    "lastModified": 1688425254577000,
+                    "id": 21,
+                    "typeCode": 2,
+                    "type": "text/x-moz-place-container",
+                    "children": [
+                        {
+                            "guid": "plwsBqHXYaqs",
+                            "title": "cactpot solver - Google Search",
+                            "index": 0,
+                            "dateAdded": 1655164190557000,
+                            "lastModified": 1655422303290000,
+                            "id": 20,
+                            "typeCode": 1,
+                            "type": "text/x-moz-place",
+                            "uri": "https://www.google.com/search?client=firefox-b-1-d&q=cactpot+solver"
+                        },
+                        {
+                            "guid": "cv0DqwC8SFXW",
+                            "title": "(1) BLU Solo Leveling or How I Learned to Stop Waiting on Friends and BLU Myself : ffxiv",
+                            "index": 1,
+                            "dateAdded": 1654203976378000,
+                            "lastModified": 1655422305365000,
+                            "id": 18,
+                            "typeCode": 1,
+                            "iconUri": "https://www.redditstatic.com/shreddit/assets/favicon/192x192.png",
+                            "type": "text/x-moz-place",
+                            "uri": "https://www.reddit.com/r/ffxiv/comments/m6utdr/blu_solo_leveling_or_how_i_learned_to_stop/"
+                        },
+                        {
+                            "guid": "ZVFvPrv0RRZv",
+                            "title": "Crafting Melding Guide",
+                            "index": 2,
+                            "dateAdded": 1649210286006000,
+                            "lastModified": 1655422307835000,
+                            "id": 14,
+                            "typeCode": 1,
+                            "type": "text/x-moz-place",
+                            "uri": "https://guides.ffxivteamcraft.com/guide/crafting-melding-guide"
+                        },
+                        {
+                            "guid": "WZJK2JN9MWi0",
+                            "title": "Ocean Fishing",
+                            "index": 3,
+                            "dateAdded": 1652991700465000,
+                            "lastModified": 1655422310758000,
+                            "id": 15,
+                            "typeCode": 1,
+                            "type": "text/x-moz-place",
+                            "uri": "https://ffxiv.pf-n.co/ocean-fishing"
+                        },
+                        {
+                            "guid": "ievPoH9wx6rk",
+                            "title": "E",
+                            "index": 4,
+                            "dateAdded": 1654203973589000,
+                            "lastModified": 1655422314699000,
+                            "id": 17,
+                            "typeCode": 1,
+                            "type": "text/x-moz-place",
+                            "uri": "https://ffxiv.consolegameswiki.com/wiki/Blue_Mage_Spells_Learning_Guide"
+                        },
+                        {
+                            "guid": "2XE_IeTmePhh",
+                            "title": "Gathering Collectables in FFXIV - Final Fantasy XIV - Icy Veins",
+                            "index": 5,
+                            "dateAdded": 1657330083831000,
+                            "lastModified": 1657330083831000,
+                            "id": 22,
+                            "typeCode": 1,
+                            "iconUri": "https://static.icy-veins.com/images/common/favicon-high-resolution.png",
+                            "type": "text/x-moz-place",
+                            "uri": "https://www.icy-veins.com/ffxiv/gathering-collectables-in-ffxiv"
+                        },
+                        {
+                            "guid": "HFDO-nkKjpV3",
+                            "title": "Scrip Timers",
+                            "index": 6,
+                            "dateAdded": 1657408809530000,
+                            "lastModified": 1657408818304000,
+                            "id": 23,
+                            "typeCode": 1,
+                            "iconUri": "https://www.ffxiv-gathering.com/images/favicon.ico",
+                            "type": "text/x-moz-place",
+                            "uri": "https://www.ffxiv-gathering.com/60.php"
+                        },
+                        {
+                            "guid": "JfryaEYxJozS",
+                            "title": "Fleeting Brand - Gamer Escape's Final Fantasy XIV (FFXIV, FF14) wiki",
+                            "index": 7,
+                            "dateAdded": 1657418128477000,
+                            "lastModified": 1657418136863000,
+                            "id": 24,
+                            "typeCode": 1,
+                            "type": "text/x-moz-place",
+                            "uri": "https://ffxiv.gamerescape.com/wiki/Fleeting_Brand"
+                        },
+                        {
+                            "guid": "GcGU_dT5qhWO",
+                            "title": "Auric’s Basic Guide to the Masked Carnivale – Astral Flames of Gilgamesh",
+                            "index": 8,
+                            "dateAdded": 1658718898493000,
+                            "lastModified": 1658718911206000,
+                            "id": 25,
+                            "typeCode": 1,
+                            "iconUri": "https://s0.wp.com/i/webclip.png",
+                            "type": "text/x-moz-place",
+                            "uri": "https://astralflamesblog.wordpress.com/aurics-guide-to-the-masked-carnivale/"
+                        },
+                        {
+                            "guid": "aiMQC6NxqiuL",
+                            "title": "FFX|V Fish Tracker App",
+                            "index": 9,
+                            "dateAdded": 1672448995746000,
+                            "lastModified": 1672449002539000,
+                            "id": 31,
+                            "typeCode": 1,
+                            "iconUri": "https://ff14fish.carbuncleplushy.com/favicon.png",
+                            "type": "text/x-moz-place",
+                            "uri": "https://ff14fish.carbuncleplushy.com/"
+                        }
+                    ]
+                },
+                {
+                    "guid": "6WpujUXRAP5k",
+                    "title": "Weather",
+                    "index": 3,
+                    "dateAdded": 1685982221380000,
+                    "lastModified": 1698006060887000,
+                    "id": 41,
+                    "typeCode": 1,
+                    "type": "text/x-moz-place",
+                    "uri": "https://www.wunderground.com/weather/us/pa/lancaster"
+                },
+                {
+                    "guid": "Vv30Abkx5dbr",
+                    "title": "Dashboard ‹ kd3ts — WordPress",
+                    "index": 4,
+                    "dateAdded": 1689081458742000,
+                    "lastModified": 1703004736347000,
+                    "id": 46,
+                    "typeCode": 1,
+                    "type": "text/x-moz-place",
+                    "uri": "http://kd3ts.com/wp-admin/"
+                },
+                {
+                    "guid": "InKmbR2Af9UE",
+                    "title": "Calendar",
+                    "index": 5,
+                    "dateAdded": 1693266395700000,
+                    "lastModified": 1693266395700000,
+                    "id": 47,
+                    "typeCode": 1,
+                    "iconUri": "https://calendar.google.com/googlecalendar/images/favicons_2020q4/calendar_31_256.ico",
+                    "type": "text/x-moz-place",
+                    "uri": "https://calendar.google.com/calendar/u/0/r"
+                },
+                {
+                    "guid": "s_VStLT1Tntt",
+                    "title": "HA",
+                    "index": 6,
+                    "dateAdded": 1700535899729000,
+                    "lastModified": 1700535903901000,
+                    "id": 48,
+                    "typeCode": 2,
+                    "type": "text/x-moz-place-container",
+                    "children": [
+                        {
+                            "guid": "OZS90OGqtHDD",
+                            "title": "How to reduce the radius of the default Home zone - Configuration - Home Assistant Community",
+                            "index": 0,
+                            "dateAdded": 1700535903901000,
+                            "lastModified": 1700535903901000,
+                            "id": 49,
+                            "typeCode": 1,
+                            "iconUri": "https://community-assets.home-assistant.io/optimized/4X/0/d/8/0d8fd51f25f77c512074ace8b2a1c25c49900c97_2_180x180.png",
+                            "type": "text/x-moz-place",
+                            "uri": "https://community.home-assistant.io/t/how-to-reduce-the-radius-of-the-default-home-zone/338835/26"
+                        }
+                    ]
+                },
+                {
+                    "guid": "do0TKpiyTOWk",
+                    "title": "Add to Babylist",
+                    "index": 7,
+                    "dateAdded": 1701710082363000,
+                    "lastModified": 1701710082363000,
+                    "id": 50,
+                    "typeCode": 1,
+                    "type": "text/x-moz-place",
+                    "uri": "javascript:(function()%7Bvar%20BOOKMARK_REDIRECT_STATUS%20%3D%20'on'%20!%3D%20'off'%3Bvar%20BL_URL%20%3D%20'https://www.babylist.com%2Fadd_reg_item'%3Bvar%20loc%20%3D%20window.location%3Bvar%20doc%20%3D%20window.document%3Bvar%20source%20%3D%20'button'%3Bvar%20scriptElem%20%3D%20doc.createElement('script')%3Bfunction%20redirect()%20%7Bloc.href%20%3D%20BL_URL%20%2B%20'%3Fu%3D'%20%2B%20encodeURIComponent(loc)%20%2B%20'%26t%3D'%20%2B%20encodeURIComponent(doc.title)%3B%7Dfunction%20init()%20%7Bif%20(doc%5B'readyState'%5D%20%26%26%20(doc%5B'readyState'%5D%20!%3D%20'complete'%20%26%26%20doc%5B'readyState'%5D%20!%3D%20'interactive'))%20%7Breturn%20setTimeout(init%2C%20200)%3B%7DscriptElem%5B'setAttribute'%5D('charset'%2C%20'UTF-8')%3BscriptElem%5B'setAttribute'%5D('src'%2C%20BL_URL%20%2B%20'.js%3Floc%3D'%20%2B%20encodeURIComponent(loc)%20%2B%20'%26source%3D'%20%2B%20encodeURIComponent(source)%20%2B%20'%26format%3Djs')%3Bif%20(BOOKMARK_REDIRECT_STATUS)%20%7BscriptElem.addEventListener('error'%2C%20redirect)%3B%7Ddoc.body.appendChild(scriptElem)%3B%7Dif%20(typeof%20scriptElem%20!%3D%20'object')%20%7Bredirect()%3B%7D%20else%20%7Binit()%3B%7D%7D)()"
+                },
+                {
+                    "guid": "BS9XFKSvV_FX",
+                    "title": "Worldbuilding",
+                    "index": 8,
+                    "dateAdded": 1703705360756000,
+                    "lastModified": 1703705360756000,
+                    "id": 51,
+                    "typeCode": 2,
+                    "type": "text/x-moz-place-container"
+                },
+                {
+                    "guid": "6qgwZlJT5MVa",
+                    "title": "Adding Stats to Characters ... easily - Lemma Soft Forums",
+                    "index": 9,
+                    "dateAdded": 1706024914427000,
+                    "lastModified": 1706024914427000,
+                    "id": 52,
+                    "typeCode": 1,
+                    "type": "text/x-moz-place",
+                    "uri": "https://lemmasoft.renai.us/forums/viewtopic.php?t=47911"
+                },
+                {
+                    "guid": "0h3mwkRJQwy7",
+                    "title": "To RED",
+                    "index": 10,
+                    "dateAdded": 1708978004518000,
+                    "lastModified": 1712260682452000,
+                    "id": 53,
+                    "typeCode": 2,
+                    "type": "text/x-moz-place-container",
+                    "children": [
+                        {
+                            "guid": "yBV7Zllr7nkP",
+                            "title": "First Time trying Anal.... Again😵‍💫😫 - Pornhub.com",
+                            "index": 0,
+                            "dateAdded": 1712260682452000,
+                            "lastModified": 1712260682452000,
+                            "id": 94,
+                            "typeCode": 1,
+                            "iconUri": "https://ei.phncdn.com/www-static/favicon.ico?cache=2024040301",
+                            "type": "text/x-moz-place",
+                            "uri": "https://www.pornhub.com/view_video.php?viewkey=65b6e49603350"
+                        }
+                    ]
+                },
+                {
+                    "guid": "7jpNJJ_uUKMw",
+                    "title": "A Fisher's Guide to Eorzea - Google Docs",
+                    "index": 11,
+                    "dateAdded": 1712170000178000,
+                    "lastModified": 1712170000178000,
+                    "id": 93,
+                    "typeCode": 1,
+                    "type": "text/x-moz-place",
+                    "uri": "https://docs.google.com/document/d/1B7wjAtw5uCiARS9tXsozYAX8l6JZOzl2YtJSjejqchk/edit"
+                }
+            ]
+        },
+        {
+            "guid": "unfiled_____",
+            "title": "unfiled",
+            "index": 3,
+            "dateAdded": 1635620114357000,
+            "lastModified": 1635620114529000,
+            "id": 5,
+            "typeCode": 2,
+            "type": "text/x-moz-place-container",
+            "root": "unfiledBookmarksFolder"
+        },
+        {
+            "guid": "mobile______",
+            "title": "mobile",
+            "index": 4,
+            "dateAdded": 1635620114357000,
+            "lastModified": 1635620114529000,
+            "id": 6,
+            "typeCode": 2,
+            "type": "text/x-moz-place-container",
+            "root": "mobileFolder"
+        }
+    ]
+}
