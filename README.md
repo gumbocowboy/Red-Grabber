@@ -38,5 +38,11 @@ python3 getlinks.py
 ```
 * After script has been run, remember to remove the bookmarks that were previously downloaded.
 
-## Help
+## To Do
+* Ensure compatibility with multiple browsers.
+* Maintain list of websites that are confirmed to work.
+
+## Contact
+
+spumbles @ discord
 
