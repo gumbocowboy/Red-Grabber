@@ -10,3 +10,4 @@ bookmark_jsonfile = "bookmarks.json"
 bookmark_folder_name = "Folder"
 # The location where your videos will be downloaded to.
 download_location = "/absolute/folder/"
+#
