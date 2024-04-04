@@ -2,13 +2,13 @@
 
 # Red-Grabber
 
-A simple Python CLI application to download videos from *certain* tube websites in bulk using bookmarks in Firefox.
+A simple Python CLI application to download videos from *certain* tube websites in bulk using bookmarks in Firefox using yt-dlp.
 
 ## Description
 
 This project started as a simple way for me to download and hoard video files from adult tube sites.
 
-The application will attempt to download a video file using links supplied via Firefox Bookmarks exported into JSON.
+The application will attempt to download a video file using links supplied via Firefox Bookmarks exported into JSON, using yt-dlp.
 
 
 ## Getting Started
@@ -17,9 +17,9 @@ The application will attempt to download a video file using links supplied via F
 
 * Python 3
 * [yt-dlp](https://github.com/yt-dlp/yt-dlp)
-* Firefox Web Browser[^1]
+* Firefox Web Browser
 
- [^1]: *Confirmed to work with Firefox, may work with other browsers if JSON is the same?*
+
 
 ### Installing
 
@@ -39,7 +39,8 @@ python3 getlinks.py
 * After script has been run, remember to remove the bookmarks that were previously downloaded.
 
 ## To Do
-* Ensure compatibility with multiple browsers.
+* Add compatibility with other web browsers.
+* Add video type and quality options into config.
 * Maintain list of websites that are confirmed to work.
 
 ## Contact
