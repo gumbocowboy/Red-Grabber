@@ -1,4 +1,4 @@
-### 🔞This application is primarly used for adult purposes. 🔞
+### 🔞This application is primarily used for adult purposes. 🔞
 
 # Red-Grabber
 
