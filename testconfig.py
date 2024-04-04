@@ -1,4 +1,4 @@
-
+#Rename this to config.py when ready
 #INCLUDE FILE EXTENSIONS WHERE NEEDED
 
 # Location of file for URLs to be written to before download.
