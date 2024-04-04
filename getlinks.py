@@ -45,3 +45,4 @@ listfile.close()
 os.remove(file.name)
 
 os.system('yt-dlp -P home:'+ config.download_location + ' -a ' +config.listfile_location)
+os.system('rm ' + config.listfile_location + "&& touch " + config.listfile_location )
