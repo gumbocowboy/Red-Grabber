@@ -30,17 +30,34 @@ def find_uri_of_children(data, target_title):
     traverse(data)
     return found_uri
 
+def find_uri_chrome(data):
+    # Iterate through children and extract proper URLs
+    proper_urls = []
+    urls = []
+    children = data.get("children",[])
+    for child in children:
+        if child['url'] and not child['url'].startswith('http'):
+            # Prepend 'https://www.youtube.com' to relative URLs
+            proper_url = 'https://www.youtube.com' + child['url']
+            proper_urls.append(proper_url)
+        else:
+            proper_urls.append(child['url'])
+        url = child.get("url")
+        if url != None:
+            urls.append(str(url))
+    return urls
 # Opening the given json file
 with open(config.bookmark_jsonfile, "r") as file:
     json_data = json.load(file)
 
-# Find the uri of all children of the item titled "To Red"
-uris_to_red_children = find_uri_of_children(json_data, config.bookmark_folder_name)
+
+# Find the uri of all children of the given bookmark folder.
+uris_to_red_children = find_uri_chrome(json_data)
 
 # Print the found URIs and writing them to the list file.
 for uri in uris_to_red_children:
     print(uri)
-    listfile.write(uri +"\n")
+    listfile.write(uri + "\n")
 listfile.close()
 # Deletes existing bookmark file
 os.remove(file.name)
