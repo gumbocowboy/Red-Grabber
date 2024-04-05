@@ -6,6 +6,7 @@ import config
 listfile = open(config.listfile_location, "w")
 
 # The process of finding the URLs - I'm not really sure exactly how it works lol
+# This is used for Firefox ONLY
 def find_uri_of_children(data, target_title):
     found_uri = []
 
