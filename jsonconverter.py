@@ -26,6 +26,7 @@ def html_to_json(html_content):
     return None
 
 def main():
+    print("Foo")
     with open(config.chrome_html_filename, "r", encoding="utf-8") as file:
         html_content = file.read()
 
